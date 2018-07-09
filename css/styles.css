@@ -1,3 +1,11 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
 .font{
-  font-family: 'Galada', cursive;
+  font-family: 'Julius Sans One', sans-serif;
+}
+.line-height{
+  line-height: 0;
 }
