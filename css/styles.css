@@ -1,5 +1,5 @@
 body{
-  background-color: #FFE7F8;
+background-color: #F8BEC5
 
   margin: 0;
   padding: 0;
@@ -16,4 +16,11 @@ body{
 main {
   background-color: White;
 min-height: 550px;
+}
+
+#gradient {
+  width: 200px;
+  border: 30px solid;
+  border-image: repeating-linear-gradient(45deg, #F8BEC5, #F8BEC5, #F8BEC5 30px) 60;
+  padding: 20px;
 }
