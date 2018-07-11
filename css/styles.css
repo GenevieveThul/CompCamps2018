@@ -1,26 +1,9 @@
-body{
-background-color: #F8BEC5
-
-  margin: 0;
-  padding: 0;
-}
-.nav-item{
-  color: #BBFFBA;
-
-.line-height{
-  line-height: 0;
-}
-.nav-link{
-  color: White;
-}
-main {
-  background-color: White;
-min-height: 550px;
+body
+{
+background-color: White;
+color: Black;
 }
 
-#gradient {
-  width: 200px;
-  border: 30px solid;
-  border-image: repeating-linear-gradient(45deg, #F8BEC5, #F8BEC5, #F8BEC5 30px) 60;
-  padding: 20px;
-}
+main
+{ background-color: White;
+min-height: 550px; }
