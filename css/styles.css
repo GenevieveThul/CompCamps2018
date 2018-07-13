@@ -20,13 +20,6 @@ li {
     float: left;
 }
 
-li a {
-    display: block;
-    color: White;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
 
 li a:hover:not(.active) {
     background-color: #FF978C;
@@ -44,7 +37,6 @@ li a:hover:not(.active) {
 image-align: center
 }
 
-
-  h2 {
-      border-bottom: 5px solid #F8BEC5;
-  }
+h2 {
+    border-bottom: 5px solid #F8BEC5;
+}
