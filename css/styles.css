@@ -7,3 +7,39 @@ color: Black;
 main
 { background-color: White;
 min-height: 550px; }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F8BEC5;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: White;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #FF978C;
+}
+
+.active {
+    background-color: #F7816E;
+}
+
+.title{
+  color: #FF978C;
+}
+
+.gallery{
+image-align: center
+}
