@@ -44,6 +44,7 @@ li a:hover:not(.active) {
 image-align: center
 }
 
-.border {
-    border: 50px solid #F7816E;
-}
+
+  h2 {
+      border-bottom: 5px solid #F8BEC5;
+  }
