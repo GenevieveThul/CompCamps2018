@@ -43,3 +43,7 @@ li a:hover:not(.active) {
 .gallery{
 image-align: center
 }
+
+.border {
+    border: 50px solid #F7816E;
+}
