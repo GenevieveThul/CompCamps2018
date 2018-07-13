@@ -8,12 +8,13 @@ main
 { background-color: White;
 min-height: 550px; }
 
-ul {
+ul
+{
+    background-color: #F8BEC5;
     list-style-type: none;
     margin: 0;
-    padding: 0;
     overflow: hidden;
-    background-color: #F8BEC5;
+    padding: 0;
 }
 
 li {
@@ -34,7 +35,7 @@ li a:hover:not(.active) {
 }
 
 .gallery{
-image-align: center
+  image-align: center
 }
 
 h2 {
